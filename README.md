@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elijah, Front-end dev.
 - 👀 I’m interested in cool projects and cool products
-- 🌱 I’m currently learning TS & Angular
+- 🌱 The Best way to grow - is practice.
 - 📫 If you want to collaborate - look into my profile
 
 <!---
